@@ -31,4 +31,4 @@ const makeBreadRadioButtons = () =>{
 }
 
 
-export default { makeBreadRadioButtons};
+export default { makeBreadRadioButtons };
